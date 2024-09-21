@@ -56,6 +56,7 @@ Este gestor de portafolios se diferenciaría en varios aspectos:
 - **Diferenciación de valor**: Será esencial posicionarse con características únicas que no estén fácilmente replicadas en otras plataformas, como la facilidad de uso combinada con opciones de personalización avanzada.
 
 > Referencias:
+>
 > [10 webs para crear tu primer portafolio profesional [2024]](https://www.crehana.com/blog/transformacion-digital/5-webs-para-crear-tu-primer-portafolio-profesional/)
 >
 > [Muestra, descubre y contrata creativos :: Behance](https://www.behance.net/)
@@ -153,6 +154,7 @@ Los principales motivos por los cuales he seleccionado este stack son los siguie
 Al hablar sobre el **stack MEAN** se suele comparar con el **stack MERN**, cuya única diferencia es el uso de Angular o React, respectivamente. En este caso, la decisión tomada para usar Angular frente a React es debida por la superioridad de conocimientos adquiridos de Angular del alumno en la actualidad.
 
 > Referencias:
+>
 > [MERN Stack: Qué es y qué ventajas ofrece | OpenWebinars](https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/)
 >
 > [What Is The MEAN Stack? Introduction & Examples | MongoDB](https://www.mongodb.com/resources/languages/mean-stack#:~:text=The%20MEAN%20stack%20is%20a,for%20use%20with%20cloud%20applications)

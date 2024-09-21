@@ -76,6 +76,7 @@ La diferencia entre ambas se encuentra en que el modelo cliente-servidor tiene b
 Mientras la arquitectura cliente-servidor necesita que uno de sus componentes actúe como servidor, la arquitectura **Cliente-Cola-Cliente** habilita a todos los nodos para que actúen como clientes simples, mientras que el servidor actúa como una cola en la que se van añadiendo las peticiones de los clientes. Las redes de pares se basaron originalmente en este concepto.
 
 > Referencias:
+>
 > [Cliente-servidor - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Cliente-servidor)
 >
 > [Peer-to-peer - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Peer-to-peer)
@@ -153,6 +154,7 @@ Mientras la arquitectura cliente-servidor necesita que uno de sus componentes ac
 - **Limitaciones en el plan gratuito**: El plan gratuito tiene limitaciones en cuanto a almacenamiento, transformaciones y ancho de banda, lo que podría ser un problema para proyectos en crecimiento.
 
 > Referencias:
+>
 > [MERN Stack: Qué es y qué ventajas ofrece | OpenWebinars](https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/)
 >
 > [Explicación de MEAN Stack: Componentes y ventajas](https://kinsta.com/es/blog/mean-stack/)
@@ -189,6 +191,7 @@ Mientras la arquitectura cliente-servidor necesita que uno de sus componentes ac
 - **Caché en CDN**: Cambios no inmediatos. Solución: Usar versioning o forzar actualización.
 
 > Referencias:
+>
 > [LAMP vs MEAN: ¿Qué Stack Es el Adecuado para Ti? - Kinsta®](https://kinsta.com/es/blog/lamp-vs-mean/)
 >
 > [Version compatibility - Angular](https://angular.dev/reference/versions#browser-support)
@@ -214,6 +217,7 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 - **Realizar solicitudes al servidor**: Utilizar tecnologías como Fetch API o XMLHttpRequest para comunicarse con el servidor y obtener datos dinámicos.
 
 > Referencias:
+>
 > [Lenguaje de marcado - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
 >
 > [JavaScript: páginas web dinámicas con integración de marcado JavaScript](https://fastercapital.com/es/contenido/JavaScript--paginas-web-dinamicas-con-integracion-de-marcado-JavaScript.html#:~:text=La%20integraci%C3%B3n%20de%20marcado%20de%20JavaScript%20es%20un%20aspecto%20importante,funcionalidad%20y%20la%20experiencia%20del)
@@ -345,6 +349,7 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
   - Documentación de APIs: Permite documentar y compartir colecciones de pruebas.
 
 > Referencias:
+>
 > [Frameworks JavaScript y librerías populares - IONOS España](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/frameworks-javascript-y-librerias-populares/)
 >
 > [Preprocesador CSS - Glosario de MDN Web Docs: Definiciones de términos relacionados con la Web | MDN](https://developer.mozilla.org/es/docs/Glossary/CSS_preprocessor)
@@ -428,6 +433,7 @@ El gestor de portafolios que se propone se diferencia de la competencia en vario
 - **Portafolios públicos**: Los portafolios son accesibles públicamente a través de URL únicas, lo que facilita la visibilidad para empleadores y clientes potenciales, eliminando barreras de acceso.
 
 > Referencias:
+>
 > [10 webs para crear tu primer portafolio profesional [2024]](https://www.crehana.com/blog/transformacion-digital/5-webs-para-crear-tu-primer-portafolio-profesional/)
 >
 > [Muestra, descubre y contrata creativos :: Behance](https://www.behance.net/)
