@@ -232,29 +232,29 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 
 ##### React
 
-- Funciones:
+- **Funciones**:
   - Biblioteca para construir interfaces de usuario mediante componentes reutilizables.
   - Utiliza un Virtual DOM para optimizar el rendimiento.
-- Ventajas:
+- **Ventajas**:
   - Componentización: Permite crear componentes encapsulados que manejan su propio estado.
   - Ecosistema rico: Amplia comunidad y una variedad de bibliotecas adicionales como Redux para gestión de estado.
   - Desarrollo reactivo: Ideal para aplicaciones de una sola página (SPA).
 
 ##### Angular
 
-- Funciones:
+- **Funciones**:
   - Framework completo para desarrollar aplicaciones web de una sola página con TypeScript.
   - Incluye herramientas integradas para enrutamiento, gestión de formularios, y comunicación HTTP.
-- Ventajas:
+- **Ventajas**:
   - Arquitectura robusta: Ofrece un enfoque estructurado con inyección de dependencias y modularidad.
   - Actualizaciones automáticas: Usa el data binding bidireccional para sincronizar el modelo y la vista automáticamente.
   - Herramientas integradas: Menor necesidad de bibliotecas externas debido a su funcionalidad completa.
 
 ##### Vue.js
 
-- Funciones:
+- **Funciones**:
   - Framework progresivo para construir interfaces de usuario que combina la simplicidad de HTML con la flexibilidad de JavaScript.
-- Ventajas:
+- **Ventajas**:
   - Curva de aprendizaje suave: Fácil de aprender y adaptar para desarrolladores nuevos.
   - Flexibilidad: Puede ser utilizado para proyectos pequeños y escalar a aplicaciones más complejas.
   - Documentación clara: Excelente documentación que facilita la adopción.
@@ -263,34 +263,34 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 
 ##### Sass (Syntactically Awesome Style Sheets)
 
-- Funciones:
+- **Funciones**:
   - Preprocesador CSS que permite el uso de variables, anidación, mixins y funciones.
-- Ventajas:
+- **Ventajas**:
   - Mantenibilidad: Facilita la organización del CSS y el manejo de estilos complejos.
   - Reutilización: Las variables y mixins permiten reutilizar estilos de manera eficiente.
 
 ##### LESS
 
-- Funciones:
+- **Funciones**:
   - Similar a Sass, permite el uso de variables, anidación y funciones en CSS.
-- Ventajas:
+- **Ventajas**:
   - Simplicidad: Fácil de aprender y usar, con sintaxis más cercana a CSS estándar.
 
 #### Herramientas de Construcción y Bundling
 
 ##### Webpack
 
-- Funciones:
+- **Funciones**:
   - Herramienta de empaquetado que permite gestionar y agrupar recursos (JavaScript, CSS, imágenes).
-- Ventajas:
+- **Ventajas**:
   - Optimización: Permite la carga diferida (lazy loading) y la optimización de recursos para mejorar el rendimiento.
   - Configurabilidad: Altamente configurable, lo que permite adaptarse a diferentes flujos de trabajo.
 
 ##### Parcel
 
-- Funciones:
+- **Funciones**:
   - Empaquetador web que requiere poca configuración.
-- Ventajas:
+- **Ventajas**:
   - Facilidad de uso: Configuración cero y rápida configuración inicial.
   - Rendimiento: Incluye optimizaciones automáticas sin necesidad de configuraciones complejas.
 
@@ -298,17 +298,17 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 
 ##### Redux
 
-- Funciones:
+- **Funciones**:
   - Biblioteca para gestionar el estado global de aplicaciones JavaScript.
-- Ventajas:
+- **Ventajas**:
   - Predecibilidad: Estado global centralizado que facilita la depuración.
   - Middleware: Soporta middleware para gestionar acciones asíncronas.
 
 ##### MobX
 
-- Funciones:
+- **Funciones**:
   - Biblioteca para gestionar el estado que utiliza la programación reactiva.
-- Ventajas:
+- **Ventajas**:
   - Simplicidad: Más fácil de usar y menos boilerplate que Redux.
   - Reactividad automática: Actualizaciones automáticas de componentes sin necesidad de configuraciones adicionales.
 
@@ -316,17 +316,17 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 
 ##### Jest
 
-- Funciones:
+- **Funciones**:
   - Framework de pruebas para JavaScript que permite pruebas unitarias y de integración.
-- Ventajas:
+- **Ventajas**:
   - Sencillez: Fácil de configurar y usar, con soporte para pruebas asíncronas.
   - Instantáneas: Permite pruebas de instantáneas para comparar la salida de componentes.
 
 ##### Cypress
 
-- Funciones:
+- **Funciones**:
   - Herramienta para pruebas end-to-end que permite pruebas de interfaz de usuario en tiempo real.
-- Ventajas:
+- **Ventajas**:
   - Interactividad: Permite la depuración visual con una interfaz de usuario fácil de usar.
   - Velocidad: Ofrece pruebas rápidas con un enfoque en la experiencia del desarrollador.
 
@@ -334,17 +334,17 @@ La integración se produce principalmente a través del **DOM**. El DOM es una r
 
 ##### Browser Developer Tools
 
-- Funciones:
+- **Funciones**:
   - Herramientas integradas en navegadores (Chrome DevTools, Firefox Developer Edition) para inspeccionar y depurar código.
-- Ventajas:
+- **Ventajas**:
   - Interactividad: Permiten modificar el HTML y CSS en tiempo real y observar cambios inmediatamente.
   - Análisis de rendimiento: Ofrecen herramientas para analizar el rendimiento y optimizar el tiempo de carga.
 
 ##### Postman
 
-- Funciones:
+- **Funciones**:
   - Herramienta para probar APIs que permite enviar solicitudes HTTP y analizar respuestas.
-- Ventajas:
+- **Ventajas**:
   - Facilidad de uso: Interfaz intuitiva que facilita la prueba de diferentes métodos HTTP.
   - Documentación de APIs: Permite documentar y compartir colecciones de pruebas.
 
